@@ -1,0 +1,27 @@
+_repo: On-the-Trail-of-Grant-and-Lee_4098
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hill, Frederick Trevor
+    birthdate: 1866
+    deathdate: 1930
+    gutenberg_agent_id: '1389'
+    url: http://www.gutenberg.org/2009/agents/1389
+description: A narrative history of the boyhood and manhood of two great Americans,
+  based upon their own writings, official records, and other authoritative information.
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4098'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Grant, Ulysses S. (Ulysses Simpson), 1822-1885'
+- !lcc 'E660'
+- !lcsh 'Lee, Robert E. (Robert Edward), 1807-1870'
+- GITenberg
+title: On the Trail of Grant and Lee
+url: http://www.gutenberg.org/ebooks/4098
